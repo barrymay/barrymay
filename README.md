@@ -9,7 +9,7 @@
   - [LinkedIn](https://www.linkedin.com/in/barrymay/) (personalized connection invites only) OR
   - Follow me on [Twitter](https://twitter.com/Barry_A_May)
 
-- Fun Fact: My first career position (in the '90s) was in an early iteration of DevOps, about a decade before git and GitHub became a thing.  Back then, using [SCCS](https://en.wikipedia.org/wiki/Source_Code_Control_System), commands only worked on one file at a time, without a GUI, so you had to write whole systems to make the tool act like it was maintaining a folder-based, versioned, project! (and yes, I walked to work every day in the snow, uphill, and backwards for 20 miles each way 😉 !) 
+- Fun Fact: My first career position (in the '90s) was in an early iteration of DevOps, well before git and GitHub became a thing.  Back then, using [SCCS](https://en.wikipedia.org/wiki/Source_Code_Control_System), commands only worked on one file at a time, without a GUI, so you had to write whole systems to make the tool act like it was maintaining a folder-based, versioned, project! (and yes, I walked to work every day in the snow, uphill, and backwards for 20 miles each way 😉 !) 
 
 - 😄 Pronouns: He/Him
 
