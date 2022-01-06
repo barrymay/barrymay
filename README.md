@@ -6,7 +6,7 @@
   - Experience giving back to my community as part of [iMentor](https://imentor.org/)
 
 - 📫 Reach to me at 
-  - [LinkedIn](https://www.linkedin.com/in/barrymay/) (personalized connection invites only) 
+  - [LinkedIn](https://www.linkedin.com/in/barrymay/) (personalized connection invites only) OR
   - Follow me on [Twitter](https://twitter.com/Barry_A_May)
 
 - 😄 Pronouns: He/Him
