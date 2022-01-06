@@ -5,7 +5,9 @@
   - OSS efforts as a member of the [React Hook Form](https://github.com/react-hook-form/react-hook-form) team
   - Experience giving back to my community as part of [iMentor](https://imentor.org/)
 
-- 📫 Reach to me at [LinkedIn](https://www.linkedin.com/in/barrymay/) or [Twitter](https://twitter.com/Barry_A_May)
+- 📫 Reach to me at 
+  - [LinkedIn](https://www.linkedin.com/in/barrymay/) (personalized connection invites only) 
+  - Follow me on [Twitter](https://twitter.com/Barry_A_May)
 
 - 😄 Pronouns: He/Him
 
